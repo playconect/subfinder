@@ -208,8 +208,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/projectdiscovery/blackrock v0.0.0-20210415162320-b38689ae3a2e/go.mod h1:/IsapnEYiWG+yEDPXp0e8NWj3npzB9Ccy9lXEUJwMZs=
 github.com/projectdiscovery/blackrock v0.0.0-20210903102120-5a9d2412d21d h1:1Q94movG4VMVo+qf781ttXXt2bxBOIGMenmuCAJDLfE=
 github.com/projectdiscovery/blackrock v0.0.0-20210903102120-5a9d2412d21d/go.mod h1:/IsapnEYiWG+yEDPXp0e8NWj3npzB9Ccy9lXEUJwMZs=
-github.com/projectdiscovery/chaos-client v0.2.0 h1:a6B0HGAUdlpU4YR0o7j70GaY/PkEdtrP9VsRacfEeng=
-github.com/projectdiscovery/chaos-client v0.2.0/go.mod h1:6A43jvxrzIS93GZXUlrHfqr8jDZO4g/QCr6At1h9r2U=
+github.com/projectdiscovery/chaos-client v0.3.0 h1:A4NgOYRCrlsSZUBTCT2HAT/uTEJly17+nWcXHRXR+Ko=
+github.com/projectdiscovery/chaos-client v0.3.0/go.mod h1:AWx/KZgtBE5SULpsgyQLLfb+SQgVtCih83gvRtTpwl4=
 github.com/projectdiscovery/clistats v0.0.8/go.mod h1:lV6jUHAv2bYWqrQstqW8iVIydKJhWlVaLl3Xo9ioVGg=
 github.com/projectdiscovery/dnsx v1.1.0 h1:Wjtx4BJQBemIk+Jaibf6bmisPHgovXfX+V1iH+pJ2YU=
 github.com/projectdiscovery/dnsx v1.1.0/go.mod h1:TtcjQcFABuFIN7C+jOQ00PX41UnXp6aU3V9/O1hc0YE=
